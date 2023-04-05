@@ -2309,7 +2309,7 @@ aside,
 section,
 header,
 footer {
-  position: relative;
+  /* position: relative; */
 }
 section > *,
 header > *,

@@ -3,6 +3,134 @@
   background-position: 50% 50%;
 }
 
+.gpIcon {
+  position: fixed;
+  left: 100%;
+  width: 90px;
+  height: 90px;
+  margin-top: 32%;
+  margin-left: -200px;
+}
+
+.gpIcon:hover {
+  transform: scale(1.2) translateX(0px) translateY(0px) !important;
+}
+
+@media (max-width: 2310px) {
+  .gpIcon {
+    position: fixed;
+    left: 100%;
+    width: 90px;
+    height: 90px;
+    margin-top: 35%;
+    margin-left: -200px;
+  }
+  .gpIcon:hover {
+    transform: scale(1.2) translateX(0px) translateY(0px) !important;
+  }
+  
+ }
+
+ @media (max-width: 2099px) {
+  .gpIcon {
+    position: fixed;
+    left: 100%;
+    width: 90px;
+    height: 90px;
+    margin-top: 40%;
+    margin-left: -200px;
+  }
+  .gpIcon:hover {
+    transform: scale(1.2) translateX(0px) translateY(0px) !important;
+  }
+ }
+
+ @media (max-width: 1999px) {
+  .gpIcon {
+    position: fixed;
+    left: 100%;
+    width: 90px;
+    height: 90px;
+    margin-top: 45%;
+    margin-left: -200px;
+  }
+  .gpIcon:hover {
+    transform: scale(1.2) translateX(0px) translateY(0px) !important;
+  }  
+ }
+
+ @media (max-width: 1899px) {
+  .gpIcon {
+    position: fixed;
+    left: 100%;
+    width: 90px;
+    height: 90px;
+    margin-top: 50%;
+    margin-left: -200px;
+  }
+  .gpIcon:hover {
+    transform: scale(1.2) translateX(0px) translateY(0px) !important;
+  }  
+ }
+
+ @media (max-width: 1700px) {
+  .gpIcon {
+    position: fixed;
+    left: 105%;
+    width: 90px;
+    height: 90px;
+    margin-top: 55%;
+    margin-left: -200px;
+  }
+  .gpIcon:hover {
+    transform: scale(1.2) translateX(0px) translateY(0px) !important;
+  } 
+ }
+
+ @media (max-width: 1600px) {
+  .gpIcon {
+    position: fixed;
+    left: 100%;
+    width: 90px;
+    height: 90px;
+    margin-top: 60%;
+    margin-left: -200px;
+  }
+  .gpIcon:hover {
+    transform: scale(1.2) translateX(0px) translateY(0px) !important;
+  }  
+ }
+
+ @media (max-width: 1500px) {
+  .gpIcon {
+    display: none;
+  }
+ }
+
+ @media (max-width: 1199px) {
+  .gpIcon {
+    display: none;
+  }
+ }
+
+ @media (max-width: 991px) {
+   .gpIcon {
+     display: none;
+   }
+ }
+
+ @media (max-width: 767px) {
+  .gpIcon {
+    display: none;
+  }
+ }
+
+ @media (max-width: 575px) {
+  .gpIcon {
+    display: none;
+  }
+ } 
+
 .u-section-1 .u-sheet-1 {
   min-height: 784px;
 }
